@@ -1,2 +1,4 @@
 # Election_Analysis
-Conducting an analysis of the voting patterns in an election
+
+##Project Overview
+An analysis of the voting results of a Colorado election
