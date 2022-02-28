@@ -13,6 +13,16 @@
 ##with open(file_to_load) as election_data:
 
     
+#results = {}
+
+
+#for row in data:
+    #if row[0] not in results:
+        #results[row[0]] = 0
+
+    #results[row[0]]+=1
+
+
 # To do: perform analysis.
     ##print(election_data)
 
